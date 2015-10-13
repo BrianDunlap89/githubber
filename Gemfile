@@ -8,3 +8,5 @@ gem "httparty"
 group :development do
   gem "pry"
 end
+
+ 
